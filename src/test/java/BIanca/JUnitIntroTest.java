@@ -40,6 +40,7 @@ public class JUnitIntroTest {
 		System.out.println("---------");
 		System.out.println("After Class");
 		System.out.println("---------");
+		System.out.println("---------");
 	}
 	
 
