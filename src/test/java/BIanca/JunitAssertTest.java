@@ -15,7 +15,7 @@ public class JunitAssertTest {
 	
 	@Test
 	public void twoPlustwoEqualsFour() {
-		assertEquals("2 + 2 = 4", 4,2+3);
+		assertEquals("2 + 2 = 4", 4,2+2);
 	}
 	
 	boolean result = true;
