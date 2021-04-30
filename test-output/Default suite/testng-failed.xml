@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="BIanca.myStoreAutomation2">
+      <class name="BIanca.newWindow">
         <methods>
-          <include name="close"/>
           <include name="test"/>
           <include name="open"/>
         </methods>
-      </class> <!-- BIanca.myStoreAutomation2 -->
+      </class> <!-- BIanca.newWindow -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
