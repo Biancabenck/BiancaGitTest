@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15097" started-at="2021-04-29T21:42:07 EDT" finished-at="2021-04-29T21:42:22 EDT">
+  <suite name="Default suite" duration-ms="20573" started-at="2021-05-03T20:16:57 EDT" finished-at="2021-05-03T20:17:18 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15097" started-at="2021-04-29T21:42:07 EDT" finished-at="2021-04-29T21:42:22 EDT">
-      <class name="BIanca.newWindow">
-        <test-method status="PASS" signature="open()[pri:0, instance:BIanca.newWindow@9a7504c]" name="open" is-config="true" duration-ms="6213" started-at="2021-04-29T21:42:07 EDT" finished-at="2021-04-29T21:42:14 EDT">
+    <test name="Default test" duration-ms="20573" started-at="2021-05-03T20:16:57 EDT" finished-at="2021-05-03T20:17:18 EDT">
+      <class name="BIanca.phptravels_Homework">
+        <test-method status="PASS" signature="open()[pri:0, instance:BIanca.phptravels_Homework@9a7504c]" name="open" is-config="true" duration-ms="6497" started-at="2021-05-03T20:16:57 EDT" finished-at="2021-05-03T20:17:04 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open -->
-        <test-method status="PASS" signature="test()[pri:0, instance:BIanca.newWindow@9a7504c]" name="test" duration-ms="8823" started-at="2021-04-29T21:42:14 EDT" finished-at="2021-04-29T21:42:22 EDT">
+        <test-method status="PASS" signature="test()[pri:0, instance:BIanca.phptravels_Homework@9a7504c]" name="test" duration-ms="14047" started-at="2021-05-03T20:17:04 EDT" finished-at="2021-05-03T20:17:18 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- BIanca.newWindow -->
+      </class> <!-- BIanca.phptravels_Homework -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

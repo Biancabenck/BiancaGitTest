@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="BIanca.newWindow">
+      <class name="BIanca.phptravels_Homework">
         <methods>
-          <include name="test"/>
           <include name="open"/>
+          <include name="test"/>
         </methods>
-      </class> <!-- BIanca.newWindow -->
+      </class> <!-- BIanca.phptravels_Homework -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
